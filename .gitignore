@@ -22,3 +22,7 @@ metastore_db
 .idea_modules
 
 checkpoint
+.project
+bin/
+
+
